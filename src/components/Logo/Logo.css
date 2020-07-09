@@ -1,0 +1,12 @@
+.Logo {
+    background-color: ivory;
+    padding: 4px;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: rgb(141, 141, 141);
+}
+
+.Logo img {
+  height: 100%;
+}
